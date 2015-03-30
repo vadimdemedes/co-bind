@@ -25,6 +25,8 @@ let newTest = bind(test, context, 'hello', 'world'); // bind (fn, context[, arg1
 
 ### Tests
 
+[![Circle CI](https://circleci.com/gh/vdemedes/co-bind.svg?style=svg)](https://circleci.com/gh/vdemedes/co-bind)
+
 ```
 $ npm test
 ```
